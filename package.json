@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roopalisarode/mywebclass.git"
+    "url": "git+https://github.com/roopalisarode/mywebclass-simulation.git"
   },
   "author": "Keith Williams @ NJIT.EDU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/roopalisarode/mywebclass/issues"
+    "url": "https://github.com/roopalisarode/mywebclass-simulation/issues"
   },
-  "homepage": "https://roopalisarode.github.io/mywebclass-simulation/",
+  "homepage": "https://github.com/roopalisarode/mywebclass-simulation#readme",
   "devDependencies": {
     "@playwright/test": "^1.31.1",
     "autoprefixer": "^10.4.13",
