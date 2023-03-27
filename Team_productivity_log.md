@@ -24,5 +24,5 @@ This table tracks the progress of tasks in our project, including the issue titl
 | Product Development PPT and report | 2            | [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/52) [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/30) |  | Devika Vengurlekar,Yatindra Mahadik 2022-03-27 | 2022-03-27   | Documentation | PPT for product development|
 | Project Requirement analysis PPT | 3            | [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/55) |  | Yatindra Mahadik, 2022-03-27 | 2022-03-27   | Documentation | PPT for project analysis|
 | Wiki Pages | 3            | [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/21) |  | Yatindra Mahadik, 2022-03-27 | 2022-03-27   | Documentation | Wiki pages for documenting the project|
-| Github pages setup | 2            | [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/54) |  | Roopali Sarode, 2022-03-27 | 2022-03-27   | Documentation | PPT for project management|
+| Github pages setup | 2            | [Link](https://github.com/roopalisarode/mywebclass-simulation/issues/56) |  | Roopali Sarode, 2022-03-27 | 2022-03-27   | DevOps | Setup github pages and test for automatic deployement|
 
